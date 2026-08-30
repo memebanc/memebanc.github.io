@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://memebanc.github.io/sitemap.xml
